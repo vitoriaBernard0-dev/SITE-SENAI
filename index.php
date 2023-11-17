@@ -232,13 +232,13 @@
     <section class="page-section bg-light" id="team">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h2 class="section-heading text-uppercase">Vencedores da SENAI DEV Experience</h2>
+                <h3 class="section-subheading text-muted">Estudantes ganhadores da última edição.</h3>
             </div>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="img/1.jpg" alt="..." />
                         <h4>Parveen Anand</h4>
                         <p class="text-muted">Lead Designer</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i
@@ -251,7 +251,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="img/2.jpg" alt="..." />
                         <h4>Diana Petersen</h4>
                         <p class="text-muted">Lead Marketer</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i
@@ -264,7 +264,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                        <img class="mx-auto rounded-circle" src="img/3.jpg" alt="..." />
                         <h4>Larry Parker</h4>
                         <p class="text-muted">Lead Developer</p>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i
@@ -278,8 +278,9 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-                        laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">Parabéns a todos os ganhadores da SENAI Dev Experience! 
+                        Vocês são verdadeiros inspiradores para a comunidade tecnológica e um orgulho para a indústria. 
+                        Desejamos a todos um futuro brilhante e cheio de realizações.</p>
                 </div>
             </div>
         </div>
