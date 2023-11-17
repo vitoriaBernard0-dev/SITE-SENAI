@@ -155,8 +155,7 @@
             </div>
             <ul class="timeline">
                 <li>
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg"
-                            alt="..." /></div>
+                    <div class="timeline-image"><img class="img-fluid" src="img/LOGO ORIGINAL.png" width="120" alt="..."/></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4>Primeira edição!</h4>
@@ -170,8 +169,7 @@
                     </div>
                 </li>
                 <li class="timeline-inverted">
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg"
-                            alt="..." /></div>
+                    <div class="timeline-image"><img class="img-fluid" src="img/expec.png" width="150" alt="..."/></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4>Expectativas</h4>
