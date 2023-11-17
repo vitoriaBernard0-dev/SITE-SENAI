@@ -271,7 +271,7 @@
                             alt="..." aria-label="Microsoft Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/SENAI_São_Paulo_logo.png"
+                    <a href="https://www.sp.senai.br/"><img class="img-fluid img-brand d-block mx-auto" src="img/SENAI_São_Paulo_logo.png"
                             alt="..." aria-label="Google Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
