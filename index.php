@@ -21,7 +21,7 @@
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="#page-top"><img id="logo" src="img/logo branco.png"/></a>
+            <a class="navbar-brand" href="#page-top"><img id="logo" src="img/logo branco.png" /></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 Menu
@@ -150,8 +150,8 @@
     <section class="page-section" id="about">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">About</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h2 class="section-heading text-uppercase">Edições</h2>
+                <h3 class="section-subheading text-muted">Uma experiência única, um mundo de oportunidades</h3>
             </div>
             <ul class="timeline">
                 <li>
@@ -159,13 +159,13 @@
                             alt="..." /></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>2009-2011</h4>
-                            <h4 class="subheading">Our Humble Beginnings</h4>
+                            <h4>Primeira edição!</h4>
+                            <h4 class="subheading">2023</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-                                unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                            <p class="text-muted"> A primeira edição do SENAI DEV EXPERIENCE, evento de desenvolvimento
+                                de sistemas, foi um
+                                marco na comunidade tecnológica.</p>
                         </div>
                     </div>
                 </li>
@@ -174,54 +174,31 @@
                             alt="..." /></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>March 2011</h4>
-                            <h4 class="subheading">An Agency is Born</h4>
+                            <h4>Expectativas</h4>
+                            <h4 class="subheading">Segunda edição</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-                                unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                            <p class="text-muted">
+                                Na próxima edição do SENAI DEV EXPERIENCE, os vencedores serão reconhecidos com medalhas
+                                de bronze, prata e ouro, enquanto a equipe campeã receberá um troféu do evento. Além das
+                                premiações, os organizadores planejam realizar visitas técnicas em empresas de
+                                tecnologia para os integrantes das três melhores equipes, oferecendo oportunidades
+                                valiosas de aprendizado prático.Este enfoque em reconhecimento e oportunidades adiciona
+                                um incentivo emocionante para a próxima edição,
+                                promovendo a excelência e a inovação no desenvolvimento de sistemas.
+                            </p>
                         </div>
                     </div>
                 </li>
-                <li>
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg"
-                            alt="..." /></div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <h4>December 2015</h4>
-                            <h4 class="subheading">Transition to Full Service</h4>
-                        </div>
-                        <div class="timeline-body">
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-                                unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                        </div>
-                    </div>
-                </li>
-                <li class="timeline-inverted">
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg"
-                            alt="..." /></div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <h4>July 2020</h4>
-                            <h4 class="subheading">Phase Two Expansion</h4>
-                        </div>
-                        <div class="timeline-body">
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-                                unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                        </div>
-                    </div>
-                </li>
+
                 <li class="timeline-inverted">
                     <div class="timeline-image">
                         <h4>
-                            Be Part
+                            Venha
                             <br />
-                            Of Our
+                            fazer parte
                             <br />
-                            Story!
+                            dessa história!
                         </h4>
                     </div>
                 </li>
@@ -311,58 +288,58 @@
     <section class="page-section" id="contact">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Contact Us</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h2 class="section-heading text-uppercase">Increva-se</h2>
+                <h3 class="section-subheading text-muted">Junte-se à revolução tecnológica no SENAI DEV EXPERIENCE e
+                    transforme sua paixão por sistemas em conquistas extraordinárias. Desperte seu potencial, conquiste
+                    medalhas, troféus e abra portas para o futuro da inovação. Não apenas participe, destaque-se no
+                    palco da excelência tecnológica!</h3>
             </div>
             <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                 <div class="row align-items-stretch mb-5">
                     <div class="col-md-6">
                         <div class="form-group">
                             <!-- Name input-->
-                            <input class="form-control" id="name" type="text" placeholder="Your Name *"
+                            <input class="form-control" id="name" type="text" placeholder="Digite seu nome*"
                                 data-sb-validations="required" />
-                            <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                            <div class="invalid-feedback" data-sb-feedback="name:required">O nome é obrigatório.</div>
                         </div>
                         <div class="form-group">
                             <!-- Email address input-->
-                            <input class="form-control" id="email" type="email" placeholder="Your Email *"
+                            <input class="form-control" id="email" type="email" placeholder="Digite seu email *"
                                 data-sb-validations="required,email" />
-                            <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
-                            <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                            <div class="invalid-feedback" data-sb-feedback="email:required">O email é obrigatório.</div>
+                            <div class="invalid-feedback" data-sb-feedback="email:email">O email não é válido.</div>
                         </div>
                         <div class="form-group mb-md-0">
                             <!-- Phone number input-->
-                            <input class="form-control" id="phone" type="tel" placeholder="Your Phone *"
+                            <input class="form-control" id="phone" type="tel" placeholder="Digite seu telefone *"
                                 data-sb-validations="required" />
-                            <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.
+                            <div class="invalid-feedback" data-sb-feedback="phone:required">O telefone é obrigatório.
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group form-group-textarea mb-md-0">
                             <!-- Message input-->
-                            <textarea class="form-control" id="message" placeholder="Your Message *"
+                            <textarea class="form-control" id="message"
+                                placeholder="Qual é a razão que te impulsiona a ingressar no SENAI DEV EXPERIENCE?  *"
                                 data-sb-validations="required"></textarea>
-                            <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.
+                            <div class="invalid-feedback" data-sb-feedback="message:required">A pergunta é obrigatória.
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="d-none" id="submitSuccessMessage">
                     <div class="text-center text-white mb-3">
-                        <div class="fw-bolder">Form submission successful!</div>
-                        To activate this form, sign up at
-                        <br />
-                        <a
-                            href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                        <div class="fw-bolder">Envio do formulário realizado com sucesso!</div>
                     </div>
                 </div>
                 <div class="d-none" id="submitErrorMessage">
-                    <div class="text-center text-danger mb-3">Error sending message!</div>
+                    <div class="text-center text-danger mb-3">Erro ao enviar mensagem!</div>
                 </div>
                 <!-- Submit Button-->
                 <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled"
-                        id="submitButton" type="submit">Send Message</button></div>
+                        id="submitButton" type="submit">Enviar mensagem</button></div>
             </form>
         </div>
     </section>
@@ -372,12 +349,13 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 text-lg-start"> SENAI Dev Experience 2023</div>
                 <div class="col-lg-4 my-3 my-lg-0">
-                    <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/i/flow/login?redirect_after_login=%2Fsenai_taubate" aria-label="Twitter"><i
-                            class="fab fa-twitter"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/senaitaubate/?locale=pt_BR" aria-label="Facebook"><i
-                            class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="https://br.linkedin.com/company/escolasenaitaubate" aria-label="LinkedIn"><i
-                            class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-dark btn-social mx-2"
+                        href="https://twitter.com/i/flow/login?redirect_after_login=%2Fsenai_taubate"
+                        aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/senaitaubate/?locale=pt_BR"
+                        aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://br.linkedin.com/company/escolasenaitaubate"
+                        aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col-lg-4 text-lg-end">
                     <a class="link-dark text-decoration-none me-3" href="#!">SENAI Taubaté</a>
@@ -487,7 +465,7 @@
                                     produtos,serviços, processos e marketing – tendo como referência as temáticas de:
                                     tecnologia da informação,
                                     empreendedorismo e sustentabilidade (ambiental e/ou social).</p>
-                               
+
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
                                     type="button">
                                     <i class="fas fa-xmark me-1"></i>
