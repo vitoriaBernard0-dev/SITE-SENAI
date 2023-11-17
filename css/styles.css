@@ -637,9 +637,14 @@ progress {
   content: "— ";
 }
 
+.img {
+  margin-top: 30px;
+}
+
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 230px;
+  text-align: center;
 }
 
 .img-thumbnail {
