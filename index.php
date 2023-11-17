@@ -155,7 +155,7 @@
             </div>
             <ul class="timeline">
                 <li>
-                    <div class="timeline-image"><img class="img-fluid" src="img/LOGO ORIGINAL.png" width="120" alt="..."/></div>
+                    <div class="timeline-image"><img class="img" src="img/LOGO ORIGINAL.png" width="120" alt="..."/></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4>Primeira edição!</h4>
@@ -169,7 +169,7 @@
                     </div>
                 </li>
                 <li class="timeline-inverted">
-                    <div class="timeline-image"><img class="img-fluid" src="img/expec.png" width="150" alt="..."/></div>
+                    <div class="timeline-image"><img class="img" src="img/expec.png" width="150" alt="..."/></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4>Expectativas</h4>
@@ -367,7 +367,7 @@
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"> <img class="img-fluid" src="img/LOGO PRETA.png" alt="..." /></div>
+                <div class="close-modal" data-bs-dismiss="modal"></div>
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
@@ -403,7 +403,7 @@
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img class="img-fluid" src="img/LOGO PRETA.png" alt="..." /></div>
+                <div class="close-modal" data-bs-dismiss="modal"></div>
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
@@ -440,7 +440,7 @@
     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
-                <div class="close-modal" data-bs-dismiss="modal"><img class="img-fluid" src="img/LOGO PRETA.png" alt="..." /></div>
+                <div class="close-modal" data-bs-dismiss="modal"></div>
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
