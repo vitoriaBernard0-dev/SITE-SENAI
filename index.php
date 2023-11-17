@@ -267,7 +267,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/branco.png"
+                    <img class="img-fluid img-brand d-block mx-auto" src="img/branco.png"
                             alt="..." aria-label="Microsoft Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
@@ -279,7 +279,7 @@
                             alt="..." aria-label="Facebook Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/branco.png"
+                    <img class="img-fluid img-brand d-block mx-auto" src="img/branco.png"
                             alt="..." aria-label="IBM Logo" /></a>
                 </div>
             </div>
