@@ -12661,7 +12661,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #4e4395;
 }
 
 #mainNav .navbar-toggler {
@@ -12718,7 +12718,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #4e4395;
   }
 
   #mainNav.navbar-shrink .navbar-brand {
