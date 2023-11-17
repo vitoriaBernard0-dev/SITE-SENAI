@@ -265,19 +265,19 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg"
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/branco.png"
                             alt="..." aria-label="Microsoft Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg"
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/SENAI_São_Paulo_logo.png"
                             alt="..." aria-label="Google Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg"
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/LOGO ORIGINAL.png"
                             alt="..." aria-label="Facebook Logo" /></a>
                 </div>
                 <div class="col-md-3 col-sm-6 my-3">
-                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg"
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="img/branco.png"
                             alt="..." aria-label="IBM Logo" /></a>
                 </div>
             </div>
@@ -338,7 +338,7 @@
                 </div>
                 <!-- Submit Button-->
                 <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled"
-                        id="submitButton" type="submit">Enviar mensagem</button></div>
+                        id="submitButton" type="submit">Inscrever-se</button></div>
             </form>
         </div>
     </section>
