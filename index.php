@@ -340,7 +340,7 @@
                 </div>
                 <!-- Submit Button-->
                 <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled"
-                        id="submitButton" type="submit">Enviar mensagem</button></div>
+                        id="submitButton" type="submit">Inscrever-se</button></div>
             </form>
         </div>
     </section>
