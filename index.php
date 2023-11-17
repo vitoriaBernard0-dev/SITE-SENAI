@@ -80,9 +80,10 @@
                         <i class="fas fa-circle fa-stack-2x text-primary"></i>
                         <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="my-3">Web Security</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam
-                        architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <h4 class="my-3">Desafios</h4>
+                    <p class="text-muted">Este evento anual não só desafia a habilidade técnica dos
+                        participantes, mas também os inspira a transcender limites, promovendo o espírito inovador e a
+                        capacidade de, em equipe, enfrentar desafios do mercado de trabalho.</p>
                 </div>
             </div>
         </div>
@@ -91,8 +92,8 @@
     <section class="page-section bg-light" id="portfolio">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Portfolio</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h2 class="section-heading text-uppercase">Módulos</h2>
+                <h3 class="section-subheading text-muted">São dividos em 3 módulos.</h3>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mb-4">
@@ -105,8 +106,8 @@
                             <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Threads</div>
-                            <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                            <div class="portfolio-caption-heading">Módulo A</div>
+                            <div class="portfolio-caption-subheading text-muted">Programação de aplicações web</div>
                         </div>
                     </div>
                 </div>
@@ -120,8 +121,9 @@
                             <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Explore</div>
-                            <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                            <div class="portfolio-caption-heading">Módulo B</div>
+                            <div class="portfolio-caption-subheading text-muted">Infraestrutura e Segurança Cibernética
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -135,56 +137,12 @@
                             <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Finish</div>
-                            <div class="portfolio-caption-subheading text-muted">Identity</div>
+                            <div class="portfolio-caption-heading">Módulo C</div>
+                            <div class="portfolio-caption-subheading text-muted">Inovação Tecnológica</div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-                    <!-- Portfolio item 4-->
-                    <div class="portfolio-item">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
-                        </a>
-                        <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Lines</div>
-                            <div class="portfolio-caption-subheading text-muted">Branding</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-                    <!-- Portfolio item 5-->
-                    <div class="portfolio-item">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
-                        </a>
-                        <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Southwest</div>
-                            <div class="portfolio-caption-subheading text-muted">Website Design</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <!-- Portfolio item 6-->
-                    <div class="portfolio-item">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
-                        </a>
-                        <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Window</div>
-                            <div class="portfolio-caption-subheading text-muted">Photography</div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </section>
@@ -440,27 +398,24 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Programação de aplicações web;</h2>
+                                <p class="item-intro text-muted">Módulo A</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Threads
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Illustration
-                                    </li>
-                                </ul>
+                                <p>Espera-se que o estudante implemente soluções web responsivas que atendam demandas
+                                    específicas do mercado de trabalho. A avaliação dos resultados será realizada de
+                                    acordo com os critérios
+                                    de qualidade de software previstos na ISO/IEC 25010: Eficiência, responsividade,
+                                    acessibilidade,
+                                    memorabilidade, manutenibilidade e confiabilidade. Este módulo visa não apenas
+                                    testar a
+                                    proficiência técnica dos estudantes, mas também incentivar a criação de aplicações
+                                    web que atendam
+                                    às demandas específicas do mercado de trabalho atual.</p>
+
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
                                     type="button">
                                     <i class="fas fa-xmark me-1"></i>
-                                    Close Project
+                                    Fechar Módulo A
                                 </button>
                             </div>
                         </div>
@@ -480,27 +435,25 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Infraestrutura e Segurança Cibernética</h2>
+                                <p class="item-intro text-muted">Módulo B.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Explore
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Graphic Design
-                                    </li>
-                                </ul>
+                                <p>No módulo B, espera-se que o estudante adote boas práticas de programação que
+                                    objetivem mitigar
+                                    o risco de ataques cibernéticos e exploração de vulnerabilidades de segurança. O
+                                    estudante deverá
+                                    ainda ser capaz de analisar arquivos de tráfego malicioso de redes de computadores
+                                    demonstrando
+                                    conhecimento prático de investigação de incidentes para detecção de anomalias. A
+                                    avaliação será
+                                    realizada com base na eficácia das medidas de segurança implementadas e resultados
+                                    obtidos após a
+                                    análise.</p>
+
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
                                     type="button">
                                     <i class="fas fa-xmark me-1"></i>
-                                    Close Project
+                                    Fechar Módulo B
                                 </button>
                             </div>
                         </div>
@@ -520,27 +473,26 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- Project details-->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Inovação Tecnológica</h2>
+                                <p class="item-intro text-muted">Módulo C.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Finish
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Identity
-                                    </li>
-                                </ul>
+                                <p>No Módulo C, Inovação Tecnológica, espera-se que os participantes explorem sua
+                                    criatividade e
+                                    habilidades de resolução de problemas para propor soluções inovadoras e disruptivas.
+                                    Neste módulo,
+                                    espera-se que os estudantes identifiquem desafios relevantes no campo da tecnologia
+                                    e proponham
+                                    soluções inovadoras. A avaliação será realizada com base na originalidade,
+                                    viabilidade técnica e
+                                    potencial impacto positivo na indústria, dentro dos diferentes tipos de inovação -
+                                    produtos,serviços, processos e marketing – tendo como referência as temáticas de:
+                                    tecnologia da informação,
+                                    empreendedorismo e sustentabilidade (ambiental e/ou social).</p>
+                               
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
                                     type="button">
                                     <i class="fas fa-xmark me-1"></i>
-                                    Close Project
+                                    Fechar Módulo C
                                 </button>
                             </div>
                         </div>
